@@ -24,4 +24,14 @@
     3 - search tweet by keyword: gets user input for keyword. fuction parses all tweets and displays all tweets containing the keyword
     4 - find stopwords: cycles the linked list and finds all tweets containing stop words and outputs number found
     5 - delete Tweets: asks user for an index of tweet and deletes the corresponding tweet in the linekd list at that index.
+    6 - save tweets: saves tweets to csv file from linked list
+    7 - load tweets: loads tweets from a csv file into the linked list
+    8 - sortID: sorts tweets by ID in ascending order
+
+ LIMITATIONS
+   -
+
+ IMPROVEMENTS
+  - I could have made both my comments and code easier to read. I feel as though I may have made too many comments in some places and not enough in others
+  - I should have made my README file much sooner. And I should have been pushing to GIT more frequently.
     
